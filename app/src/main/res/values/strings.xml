@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">RecyclerviewAdapter</string>
+
+    <string-array name="username">
+        <item>John</item>
+        <item>Dadang</item>
+        <item>Donal</item>
+        <item>Agus</item>
+    </string-array>
+
+    <string-array name="address">
+        <item>Yogyakarta</item>
+        <item>Bengkulu</item>
+        <item>Kalimantan</item>
+        <item>Aceh</item>
+    </string-array>
+</resources>
